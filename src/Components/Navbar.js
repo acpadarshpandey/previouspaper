@@ -4,7 +4,7 @@ import "@popperjs/core";
 import "../Components/style.css"
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import {Link} from "react-router-dom"
-import Home from './Home';
+import Home from './Home/Home';
 import Cbse from "../Components/School Exam/CBSE"
 import Isc from "../Components/School Exam/ISC";
 import StateBoard from "../Components/School Exam/State Board"
