@@ -8,7 +8,8 @@ function App() {
   return (
     <div className="App">
        <div><Navbar/>  </div>
-          <h1> JAi Bajrangbali...</h1>
+      <div className="footer">
+        <p> Copyright @ JBB</p>  </div>
     </div>
   );
 }

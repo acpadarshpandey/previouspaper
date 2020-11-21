@@ -1,0 +1,14 @@
+.navs{
+    left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(75, 72, 72);
+  color: white;
+  text-align: center;
+}
+.img2{
+   margin: auto;
+    height:"85";
+     width:"80";
+     background:red;
+}
