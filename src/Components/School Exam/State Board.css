@@ -12,3 +12,14 @@
      width:"80";
      background:red;
 }
+.card{
+  display:flex;
+  flex-wrap: nowrap;
+}
+.card {
+  display: flex;
+}
+
+
+
+ 

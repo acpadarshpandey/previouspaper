@@ -2,10 +2,11 @@
   text-align: center;
   
 }
-.footer {position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
+.footer {
+  margin-top: 5%;
+  bottom: 0%;
+  width: 100vw;
+  height: 10vh;
   background-color: rgb(201, 195, 195);
   color: white;
   text-align: center;}

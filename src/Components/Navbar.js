@@ -16,6 +16,8 @@ import Neet from './Competative Exam/NEET'
 import Aktu from './University EXam/AKtu'
 import Niit from './University EXam/Niit'
 import IIT from "./University EXam/IIt"
+import tenth from "./School Exam/subjects/10"
+import Twelfth from "./School Exam/subjects/12";
 
 
 const Navbar =()=>{
@@ -86,7 +88,9 @@ const Navbar =()=>{
             <Route path ="/aktu" exact component={Aktu}/>
             <Route path ="/niit" exact component={Niit}/>
             <Route path ="/iit" exact component={IIT}/>
-
+            <Route path="/10" exact component={tenth}/>
+            <Route path="/12" exact component={Twelfth}/>
+ 
         </Switch>
          </Router>
         
