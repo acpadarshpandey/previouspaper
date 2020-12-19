@@ -13,8 +13,10 @@
      background:red;
 }
 .card{
-  display:flex;
-  flex-wrap: nowrap;
+  
+    margin: "auto";
+    width: "75%";
+    padding: "10px"
 }
 .card {
   display: flex;
