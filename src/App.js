@@ -8,10 +8,11 @@ import "@popperjs/core";
 function App() {
   return (
     <div className="App">
-       <div><Navbar/>  </div>
+       <div><Navbar/>  
      <div>
        <Footer/>
      </div>
+    </div>
     </div>
   );
 }
